@@ -1,13 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.4.33110.190
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceBackend", "EcommerceBackend\EcommerceBackend.csproj", "{D51E01D6-8A1F-4D0C-8331-0AFA14C518E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceBackend", "EcommerceBackend\EcommerceBackend.csproj", "{319A0D09-4AEA-43C1-945C-4CD96906B7EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceBackend.Common", "Ecommerce.Common.csproj\EcommerceBackend.Common.csproj", "{B3F16C47-CDEF-4C2D-9680-5E95E112E2F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceBackend.Data", "EcommerceBackend.Data\EcommerceBackend.Data.csproj", "{6A7F58D9-4A0A-4F87-86B0-F9B7EA5BB64E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceBackend.Logic", "Ecommerce.Logic.csproj\EcommerceBackend.Logic.csproj", "{E822F2AA-0600-4062-8A8F-FDB72806B75B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceBackend.Logic", "EcommerceBackend.Logic\EcommerceBackend.Logic.csproj", "{CA43FE6F-6122-4545-B3A6-173FBF8D1C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceBackend.Common", "EcommerceBackend.Common\EcommerceBackend.Common.csproj", "{FB2D7A46-0940-4CBD-B41C-49C4B12C70F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +14,21 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D51E01D6-8A1F-4D0C-8331-0AFA14C518E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D51E01D6-8A1F-4D0C-8331-0AFA14C518E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D51E01D6-8A1F-4D0C-8331-0AFA14C518E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D51E01D6-8A1F-4D0C-8331-0AFA14C518E7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B3F16C47-CDEF-4C2D-9680-5E95E112E2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B3F16C47-CDEF-4C2D-9680-5E95E112E2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B3F16C47-CDEF-4C2D-9680-5E95E112E2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B3F16C47-CDEF-4C2D-9680-5E95E112E2F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E822F2AA-0600-4062-8A8F-FDB72806B75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E822F2AA-0600-4062-8A8F-FDB72806B75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E822F2AA-0600-4062-8A8F-FDB72806B75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E822F2AA-0600-4062-8A8F-FDB72806B75B}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6D6587A3-ACA3-4C06-A4B9-B8EE1ED388FA}
+		{319A0D09-4AEA-43C1-945C-4CD96906B7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319A0D09-4AEA-43C1-945C-4CD96906B7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319A0D09-4AEA-43C1-945C-4CD96906B7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319A0D09-4AEA-43C1-945C-4CD96906B7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7F58D9-4A0A-4F87-86B0-F9B7EA5BB64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7F58D9-4A0A-4F87-86B0-F9B7EA5BB64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7F58D9-4A0A-4F87-86B0-F9B7EA5BB64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7F58D9-4A0A-4F87-86B0-F9B7EA5BB64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA43FE6F-6122-4545-B3A6-173FBF8D1C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA43FE6F-6122-4545-B3A6-173FBF8D1C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA43FE6F-6122-4545-B3A6-173FBF8D1C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA43FE6F-6122-4545-B3A6-173FBF8D1C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2D7A46-0940-4CBD-B41C-49C4B12C70F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2D7A46-0940-4CBD-B41C-49C4B12C70F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2D7A46-0940-4CBD-B41C-49C4B12C70F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2D7A46-0940-4CBD-B41C-49C4B12C70F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

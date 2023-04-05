@@ -1,0 +1,17 @@
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/bin/Release/net7.0/EcommerceBackend.Logic.deps.json
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/bin/Release/net7.0/EcommerceBackend.Logic.dll
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/bin/Release/net7.0/EcommerceBackend.Logic.pdb
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/bin/Release/net7.0/EcommerceBackend.Common.dll
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/bin/Release/net7.0/EcommerceBackend.Data.dll
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/bin/Release/net7.0/EcommerceBackend.Common.pdb
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/bin/Release/net7.0/EcommerceBackend.Data.pdb
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/EcommerceBackend.Logic.csproj.AssemblyReference.cache
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/EcommerceBackend.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/EcommerceBackend.Logic.AssemblyInfoInputs.cache
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/EcommerceBackend.Logic.AssemblyInfo.cs
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/EcommerceBackend.Logic.csproj.CoreCompileInputs.cache
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/EcommerceBackend.Logic.csproj.CopyComplete
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/EcommerceBackend.Logic.dll
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/refint/EcommerceBackend.Logic.dll
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/EcommerceBackend.Logic.pdb
+/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/Release/net7.0/ref/EcommerceBackend.Logic.dll

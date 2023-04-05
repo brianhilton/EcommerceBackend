@@ -1,0 +1,17 @@
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\bin\Debug\net7.0\EcommerceBackend.Logic.deps.json
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\bin\Debug\net7.0\EcommerceBackend.Logic.dll
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\bin\Debug\net7.0\EcommerceBackend.Logic.pdb
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\bin\Debug\net7.0\EcommerceBackend.Common.dll
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\bin\Debug\net7.0\EcommerceBackend.Data.dll
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\bin\Debug\net7.0\EcommerceBackend.Common.pdb
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\bin\Debug\net7.0\EcommerceBackend.Data.pdb
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\EcommerceBackend.Logic.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\EcommerceBackend.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\EcommerceBackend.Logic.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\EcommerceBackend.Logic.AssemblyInfo.cs
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\EcommerceBackend.Logic.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\EcommerceBackend.Logic.csproj.CopyComplete
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\EcommerceBackend.Logic.dll
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\refint\EcommerceBackend.Logic.dll
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\EcommerceBackend.Logic.pdb
+C:\Users\brian\source\repos\idk\EcommerceBackend\EcommerceBackend.Logic\obj\Debug\net7.0\ref\EcommerceBackend.Logic.dll
