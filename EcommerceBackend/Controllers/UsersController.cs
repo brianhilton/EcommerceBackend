@@ -1,4 +1,5 @@
 using EcommerceBackend.Common.Dto;
+using EcommerceBackend.Common.RequestResponse;
 using EcommerceBackend.Data.Models;
 using EcommerceBackend.Logic.Interfaces;
 using Microsoft.AspNetCore.Http.HttpResults;
@@ -40,7 +41,7 @@ public class UsersController : ControllerBase
     }
 
     [HttpPost("login")]
-    [ProducesResponseType(typeof(UserDto), 200)]
+    [ProducesResponseType(typeof(LoginResponse), 200)]
     [ProducesResponseType(typeof(string), 401)]
     [ProducesResponseType(500)]
     public async Task<IActionResult> PostLogin(string username, string password)

@@ -14,17 +14,21 @@ var stringBuilder = new NpgsqlConnectionStringBuilder();
 
 stringBuilder.Database = "postgres";
 stringBuilder.Host = "localhost";
-stringBuilder.Password = "squid";
+stringBuilder.Password = "password123";
 stringBuilder.Port = 5432;
 stringBuilder.Username = "postgres";
 
+
+var con = stringBuilder.ConnectionString;
 
 builder.Services
     .AddLogging()
     .AddDbContextFactory<DataContext>(opt => opt.UseNpgsql(stringBuilder.ConnectionString))
     .AddDbContext<DbContext, DataContext>(opt => opt.UseNpgsql(stringBuilder.ConnectionString))
     .AddScoped<IGenericRepository<User>, GenericRepository<User>>()
+    .AddScoped<IGenericRepository<Product>, GenericRepository<Product>>()
     .AddScoped<IUserService, UserService>()
+    .AddScoped<IProductService, ProductService>()
     .AddScoped<ITokenService, TokenService>();
 
 builder.Services.AddControllers();

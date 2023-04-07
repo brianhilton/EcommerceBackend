@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj": {}
+    "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend/EcommerceBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Common\\EcommerceBackend.Common.csproj": {
+    "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Common/EcommerceBackend.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Common\\EcommerceBackend.Common.csproj",
+        "projectUniqueName": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Common/EcommerceBackend.Common.csproj",
         "projectName": "EcommerceBackend.Common",
-        "projectPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Common\\EcommerceBackend.Common.csproj",
-        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Common\\obj\\",
+        "projectPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Common/EcommerceBackend.Common.csproj",
+        "packagesPath": "/Users/bio4554/.nuget/packages/",
+        "outputPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Common/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/bio4554/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,33 +53,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Data\\EcommerceBackend.Data.csproj": {
+    "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Data/EcommerceBackend.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Data\\EcommerceBackend.Data.csproj",
+        "projectUniqueName": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Data/EcommerceBackend.Data.csproj",
         "projectName": "EcommerceBackend.Data",
-        "projectPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Data\\EcommerceBackend.Data.csproj",
-        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Data\\obj\\",
+        "projectPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Data/EcommerceBackend.Data.csproj",
+        "packagesPath": "/Users/bio4554/.nuget/packages/",
+        "outputPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Data/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/bio4554/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -138,44 +124,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Logic\\EcommerceBackend.Logic.csproj": {
+    "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/EcommerceBackend.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Logic\\EcommerceBackend.Logic.csproj",
+        "projectUniqueName": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/EcommerceBackend.Logic.csproj",
         "projectName": "EcommerceBackend.Logic",
-        "projectPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Logic\\EcommerceBackend.Logic.csproj",
-        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Logic\\obj\\",
+        "projectPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/EcommerceBackend.Logic.csproj",
+        "packagesPath": "/Users/bio4554/.nuget/packages/",
+        "outputPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/bio4554/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Common\\EcommerceBackend.Common.csproj": {
-                "projectPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Common\\EcommerceBackend.Common.csproj"
+              "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Common/EcommerceBackend.Common.csproj": {
+                "projectPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Common/EcommerceBackend.Common.csproj"
               },
-              "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Data\\EcommerceBackend.Data.csproj": {
-                "projectPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Data\\EcommerceBackend.Data.csproj"
+              "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Data/EcommerceBackend.Data.csproj": {
+                "projectPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Data/EcommerceBackend.Data.csproj"
               }
             }
           }
@@ -211,41 +190,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj": {
+    "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend/EcommerceBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
+        "projectUniqueName": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend/EcommerceBackend.csproj",
         "projectName": "EcommerceBackend",
-        "projectPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
-        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend\\obj\\",
+        "projectPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend/EcommerceBackend.csproj",
+        "packagesPath": "/Users/bio4554/.nuget/packages/",
+        "outputPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/bio4554/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Logic\\EcommerceBackend.Logic.csproj": {
-                "projectPath": "C:\\Users\\brian\\source\\repos\\idk\\EcommerceBackend\\EcommerceBackend.Logic\\EcommerceBackend.Logic.csproj"
+              "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/EcommerceBackend.Logic.csproj": {
+                "projectPath": "/Users/bio4554/RiderProjects/EcommerceBackend/EcommerceBackend.Logic/EcommerceBackend.Logic.csproj"
               }
             }
           }
@@ -294,7 +266,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
